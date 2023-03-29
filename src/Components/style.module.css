@@ -1,0 +1,21 @@
+.tables{
+    width: 70%;
+    margin-left: 15%;
+}
+.heading{
+    border: 2px solid gray;
+    background-color: #000;
+    color: #fff;
+}
+.images{
+    width: 20px;
+}
+.error{
+    color: red;
+    margin-top: 30%;
+}
+.loader{
+    margin-top: 20%;
+    border: 2px solid gray;
+    align-items:center;
+}
